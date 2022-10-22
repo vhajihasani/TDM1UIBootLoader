@@ -1,0 +1,13 @@
+# Build and Release Folders
+
+*.TMP
+
+*.uvguix.*
+
+*.uvoptx
+
+MDK-ARM/TCP_Echo_Client/
+
+*.bak
+
+MDK-ARM/JLinkLog\.txt
